@@ -243,17 +243,5 @@ carts & cart_items – shopping carts
 
 This project is licensed under the MIT License.
 
-👥 Authors
 
-Your Name – GitHub Profile
-
-🙏 Acknowledgments
-
-Laravel
-
-TailwindCSS
-
-Heroicons
-
-Orbitron Font
 
