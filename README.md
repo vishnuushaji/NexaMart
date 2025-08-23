@@ -1,6 +1,6 @@
 # ⚡ NexaMart - Futuristic E-commerce Platform  
 
-![NexaMart Logo](public/images/logoo.png) <!-- Replace with actual logo path if available -->
+![NexaMart Logo](public/images/logoo.png) 
 
 > A cutting-edge **e-commerce platform** built with **Laravel 11**, featuring a **futuristic design with glassmorphism effects** and a complete shopping experience.  
 
@@ -11,7 +11,35 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](public/screenshots/home.png)
+*Futuristic homepage with glassmorphism design and featured products*
+
+### 🛍️ Products Catalog
+![Products Page](public/screenshots/products.png)
+*Browse our extensive product catalog with advanced filtering*
+
+### 🛒 Shopping Cart
+![Shopping Cart](public/screenshots/cart.png)
+*Seamless shopping cart experience with real-time updates*
+
+### 👤 User Authentication
+<div align="center">
+  <img src="public/screenshots/login.png" width="45%" alt="Login Page">
+  <img src="public/screenshots/register.png" width="45%" alt="Register Page">
+</div>
+<p align="center"><i>Secure authentication with modern UI</i></p>
+
+### 👨‍💼 Admin Dashboard
+![Admin Dashboard](public/screenshots/admin_dashboard.png)
+*Comprehensive admin dashboard with store analytics and management tools*
+
+---
+
 ## 📋 Table of Contents
+- [Screenshots](#-screenshots)
 - [About The Project](#-about-the-project)  
 - [Features](#-features)  
 - [Tech Stack](#-tech-stack)  
@@ -98,10 +126,13 @@ futuristic-product-showcase/
 ├── resources/views/ (layouts, admin, products, auth, cart, wishlist)
 ├── routes/web.php
 ├── public/
+│   ├── images/
+│   └── screenshots/
 ├── .env.example
 ├── composer.json
 ├── package.json
 └── README.md
+
 
 📋 Prerequisites
 
@@ -225,3 +256,4 @@ TailwindCSS
 Heroicons
 
 Orbitron Font
+
